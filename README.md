@@ -9,6 +9,6 @@ Moduli spaces of supersymmetric theories with 8 supercharges in various dimensio
 
 The present piece of Wolfram Mthematica code is called a quiver calculator. It allows the user to prescribe a 3d N=4 theory in the form of a quiver (editor) and then computes the corresponding Coulomb branch. The Coumputation of the Coulomb branch utilizes routines authored by Rudolph Kalveks. Furthermore, the geometrical structure of such moduli spaces (which are geometrically hyperKahler singularities i.e. symplectic singularities) has been shown to be encoded in a Hasse diagram by some of present author's collaborative works. Computation of the Hasse diagram for a quiver is included as a feature in the present code. Here, Antoine Bouget is to be acknowledged for the first routine which the algorithm of this feature is based on.
 
-Test quivers which have been computed along the development are included in a form of a database of moduli spaces. All future computations using this code will have been stored and accessible by the next quiverist eager to use this utility.
+Test quivers which have been computed along the development are included in a form of a database of moduli spaces (database). All future computations using this code will have been stored and accessible by the next quiverist eager to use this utility.
 
 It is hoped that some find this utilization handy in persuing further developments in geometry of moduli spaces of supersymmetric gauge theories.
